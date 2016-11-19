@@ -27,14 +27,6 @@
         "store": true,
         "model": true,
         "controller": true,
-        "eea0cd2b-39bf-4118-91f3-ba49701e7598": {
-            "id": "eea0cd2b-39bf-4118-91f3-ba49701e7598",
-            "cn": [
-                {
-                    "id": "76a3819d-106a-42f0-9785-7ce57960ffe3"
-                }
-            ]
-        },
         "resource": true,
         "70760bbc-9363-4de6-bb8d-935eb11d0b3e": {
             "id": "70760bbc-9363-4de6-bb8d-935eb11d0b3e"
@@ -47,7 +39,6 @@
         "openTabs": [
             "6ff421e4-b183-4a75-a035-b579678217fa",
             "3adef103-197c-434e-b966-d6f1419b27f7",
-            "eea0cd2b-39bf-4118-91f3-ba49701e7598",
             "application"
         ]
     },
@@ -55,8 +46,8 @@
         "topInstance": null
     },
     "inspectorState": {
-        "topInstance": "eea0cd2b-39bf-4118-91f3-ba49701e7598",
-        "selectedInstance": "76a3819d-106a-42f0-9785-7ce57960ffe3"
+        "topInstance": "application",
+        "selectedInstance": "application"
     },
     "editMode": "code",
     "userSettings": {

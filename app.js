@@ -23,9 +23,6 @@ Ext.application({
     views: [
         'MainView'
     ],
-    controllers: [
-        'MyController'
-    ],
     name: 'MyApp',
 
     launch: function() {
