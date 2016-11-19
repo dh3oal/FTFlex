@@ -1,0 +1,55 @@
+{
+    "name": "aa2",
+    "settings": {
+        "cmd": {
+            "license": "commercial",
+            "cmdVersion": "6.1.2.15",
+            "frameworkVersion": "2.4.2.571"
+        },
+        "canvasControls": {
+            "viewportSize": {
+                "name": "iPhone 5",
+                "builtIn": true,
+                "height": 568,
+                "width": 320
+            },
+            "viewportOrientation": "portrait"
+        },
+        "urlPrefix": "http://localhost:1841/",
+        "exportPath": "",
+        "spacesToIndent": 4,
+        "sdkPath": "",
+        "lineEnding": "LF",
+        "genTimestamps": false,
+        "cacheBust": false,
+        "buildShouldOverwriteIndex": true,
+        "generateArchitectVersion": true,
+        "lastBuildSelection": {
+            "value": "emulate",
+            "display": "Native Build & Emulate"
+        },
+        "installStatus": "Not Installed"
+    },
+    "xdsVersion": "3.5.1",
+    "xdsBuild": 348,
+    "schemaVersion": 1,
+    "upgradeVersion": 310000000001,
+    "framework": "touch24",
+    "viewOrderMap": {
+        "view": [
+            "6ff421e4-b183-4a75-a035-b579678217fa"
+        ],
+        "store": [],
+        "controller": [
+            "eea0cd2b-39bf-4118-91f3-ba49701e7598"
+        ],
+        "model": [],
+        "resource": [
+            "70760bbc-9363-4de6-bb8d-935eb11d0b3e",
+            "3adef103-197c-434e-b966-d6f1419b27f7"
+        ],
+        "app": [
+            "application"
+        ]
+    }
+}

@@ -1,0 +1,24 @@
+/* _arch-vars-start */
+$page-bg-color: rgba(0,0,0,1);
+
+@import 'sencha-touch/default';
+@import 'sencha-touch/default/all';
+
+
+/* _arch-other-start */
+/* ui mixin: untitled-ui-1 for of type: sencha-tabbar-ui */
+$_arch_bar-color: rgba(7,16,61,1);
+$_arch_tab-active-color: rgba(47,129,51,1);
+@include sencha-tabbar-ui(
+  $ui-label:"untitled-ui-1",
+    $bar-color: $_arch_bar-color,
+    $bar-gradient: $tabs-bar-gradient,
+    $tab-active-color: $_arch_tab-active-color
+);
+/* ui mixin: untitled-ui-2 for of type: sencha-toolbar-ui */
+$_arch_color: darken($toolbar-base-color, 10%);
+@include sencha-toolbar-ui(
+  $ui-label:"untitled-ui-2",
+    $color: $_arch_color,
+    $gradient: $toolbar-gradient
+);
